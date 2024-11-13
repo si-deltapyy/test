@@ -17,6 +17,17 @@ const Tab1: React.FC = () => {
           </IonToolbar>
         </IonHeader>
         <ExploreContainer name="Tab" />
+        <ion-card>
+          <ion-card-header>
+            <ion-card-title>Kelompok 5</ion-card-title>
+            <ion-card-subtitle>Anjazz</ion-card-subtitle>
+          </ion-card-header>
+
+          <ion-card-content>
+            - Sijsa <br /> 
+            - asda
+          </ion-card-content>
+        </ion-card>
       </IonContent>
     </IonPage>
   );
